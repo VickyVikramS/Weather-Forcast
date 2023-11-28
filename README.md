@@ -30,10 +30,10 @@ Now you can see the json file.
 
 # Screenshots
 
-![2023-11-26](https://github.com/Raghunayak01/Backend-API-for-Weather-Forecast/assets/150252274/37dcdfae-0935-4352-964e-9d756d14ea1d)
-![2023-11-28 (1)](https://github.com/Raghunayak01/Backend-API-for-Weather-Forecast/assets/150252274/80cff771-8720-4ed5-b43d-d9e1de8fdee3)
-![2023-11-28 (3)](https://github.com/Raghunayak01/Backend-API-for-Weather-Forecast/assets/150252274/508072cd-b7fa-4351-9b41-76377e24acc5)
-![2023-11-28](https://github.com/Raghunayak01/Backend-API-for-Weather-Forecast/assets/150252274/545fabb3-bfac-4830-93fc-6cd9bfc54d48)
+![2023-11-28 (4)](https://github.com/VickyVikramS/Weather-Forcast/assets/152264791/0eef0c23-999e-43a5-8a93-fa6d22547b8c)
+![2023-11-28 (5)](https://github.com/VickyVikramS/Weather-Forcast/assets/152264791/24628adf-4ed3-45a9-8b9c-481df4289cc1)
+![2023-11-28 (6)](https://github.com/VickyVikramS/Weather-Forcast/assets/152264791/3f8c150e-915b-493d-b98c-a03c3c6b4a3c)
+![2023-11-28 (7)](https://github.com/VickyVikramS/Weather-Forcast/assets/152264791/97a16a9a-320e-4b41-a47e-a08ea085d3b3)
 
 # Additionals
 This python script accepts multiple query parameters. The code includes the ability to retrieve weather information for multiple locations through the /weather endpoint.
